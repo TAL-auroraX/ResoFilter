@@ -1,7 +1,7 @@
 # ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis
-This repository contains the code for our paper ``ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis``.
+This repository contains the code for our paper [ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis](https://arxiv.org/abs/2412.14809).
 
-
+This work has been accepted by NAACL-findings 2025!
 
 
 ## 🎧 Overview 
@@ -46,4 +46,16 @@ evaluations on GSM8K, BBH, MMLU, etc. Please refer to the official repository fo
 
 ## 🤔 Citation
 If you find this repository useful, please consider giving a star :star: and citation 😘
+```bibtex
+@misc{tu2024resofilterfinegrainedsyntheticdata,
+      title={ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis}, 
+      author={Zeao Tu and Xiangdi Meng and Yu He and Zihan Yao and Tianyu Qi and Jun Liu and Ming Li},
+      year={2024},
+      eprint={2412.14809},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.14809}, 
+}
+```
+
 
